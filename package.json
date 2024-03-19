@@ -1,0 +1,15 @@
+{
+  "name": "letsdiveintobackend",
+  "version": "1.0.0",
+  "description": "this is video series on backend with help of Javascript",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
